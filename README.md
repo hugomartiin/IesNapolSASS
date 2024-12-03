@@ -1,7 +1,7 @@
 # IES Napol - Diseño Web con SASS y Vite 
 
 ### Autor: Hugo Martin Sanchez
-#### Diseño Web 2DAW
+#### Diseño de interfaces 2DAW
 
 ## Enlace a la página en GitHub Pages
 
